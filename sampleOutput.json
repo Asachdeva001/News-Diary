@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 35,
+    "articles": [
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters",
+    "title": "Ukrainian air base under fire as Russia aims at F-16 arrivals - Reuters",
+    "description": null,
+    "url": "https://www.reuters.com/world/europe/ukrainian-air-base-under-fire-russia-aims-f-16-arrivals-2024-07-02/",
+    "urlToImage": null,
+    "publishedAt": "2024-07-02T06:27:08Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Yahoo Entertainment"
+    },
+    "author": "Henry Bushnell",
+    "title": "USMNT loses to Uruguay, crashes out of Copa América - Yahoo Sports",
+    "description": "The U.S. men's national team had to beat Uruguay to salvage its 2024 Copa América. Instead, it neither scored nor won.",
+    "url": "https://sports.yahoo.com/live/usmnt-loses-to-uruguay-crashes-out-of-copa-america-230001552.html",
+    "urlToImage": "https://s.yimg.com/ny/api/res/1.2/HT1q8qUx8yjgeAgG4Vp6lA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2024-07/866f0370-3831-11ef-aefb-3a6e4e33eb51",
+    "publishedAt": "2024-07-02T05:19:00Z",
+    "content": "KANSAS CITY, Mo. The U.S. mens national team crashed out of the 2024 Copa América here on Monday after losing a full-blooded fight.\r\nIt squared up to Uruguay, Group Cs most powerful puncher. For an h… [+6277 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": "Reuters Canada",
+    "title": "Hurricane Beryl strengthens on way to Jamaica, threatens catastrophe - Reuters Canada",
+    "description": null,
+    "url": "https://www.reuters.com/world/americas/extremely-dangerous-hurricane-beryl-hurtles-towards-caribbean-2024-07-01/",
+    "urlToImage": null,
+    "publishedAt": "2024-07-02T04:23:00Z",
+    "content": null
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "NBC10 Boston"
+    },
+    "author": "Mike Pescaro, Kathy Curran",
+    "title": "Michael Proctor relieved of duty, state police say after Karen Read mistrial - NBC Boston",
+    "description": "Massachusetts State Police say Trooper Michael Proctor, who came under fire for texts he sent as lead investigator in the Karen Read case, is being transferred…",
+    "url": "https://www.nbcboston.com/news/canton-karen-read-case/michael-proctor-relieved-of-duty-state-police-say-after-karen-read-mistrial/3416025/",
+    "urlToImage": "https://media.nbcboston.com/2024/06/karen-read-case-msp-trooper-michael-proctor.png?resize=1200%2C675&quality=85&strip=all",
+    "publishedAt": "2024-07-02T03:24:32Z",
+    "content": "Massachusetts State Police have taken action against Trooper Michael Proctor after a mistrial was declared Monday in the case against Karen Read.\r\nProctor drew heavy criticism after testifying in the… [+4364 chars]"
+    },
+    {
+    "source": {
+    "id": "espn",
+    "name": "ESPN"
+    },
+    "author": "Kevin Pelton",
+    "title": "NBA free agency 2024 - Ranking the top 10 players available - ESPN",
+    "description": "Which players are still available in free agency? Kevin Pelton examines his top 10, which technically still includes the NBA's all-time leading scorer.",
+    "url": "https://www.espn.com/nba/insider/story/_/id/40477917/nba-free-agency-2024-ranking-top-10-players-available",
+    "urlToImage": "https://a1.espncdn.com/combiner/i?img=%2Fphoto%2F2024%2F0702%2Fr1353359_1296x729_16%2D9.jpg",
+    "publishedAt": "2024-07-02T03:24:00Z",
+    "content": "Barely 24 hours after NBA teams were allowed to negotiate with free agents from other teams starting at 6 p.m. ET on June 30, nearly all the top players on the market have struck deals, including Pau… [+7147 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "[Removed]"
+    },
+    "author": null,
+    "title": "[Removed]",
+    "description": "[Removed]",
+    "url": "https://removed.com",
+    "urlToImage": null,
+    "publishedAt": "1970-01-01T00:00:00Z",
+    "content": "[Removed]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Soo Rin Kim, Lalee Ibssa, Kelsey Walsh",
+    "title": "Trump says Biden will 'pay a very big price' for 'weaponization' of justice system as Bannon heads to prison - ABC News",
+    "description": "Bannon was sentenced to four months in prison for contempt of Congress.",
+    "url": "https://abcnews.go.com/Politics/trump-biden-pay-big-price-weaponization-justice-system/story?id=111596240",
+    "urlToImage": "https://i.abcnewsfe.com/a/9364dfdf-4c53-47f3-b7d5-b6d9b5026c7d/donald-trump-rt-lv-240701_1719878966220_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-07-02T02:43:13Z",
+    "content": "On the same day his close ally and former White House chief strategist Steve Bannon reported to prison for contempt of Congress, former President Donald Trump again blamed President Joe Biden for wha… [+3616 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "MARIA SHERMAN",
+    "title": "BET says 'audio malfunction' caused heavy censorship of Usher's speech at the 2024 BET Awards - The Associated Press",
+    "description": "Usher’s acceptance speech of the BET Awards’ lifetime achievement award was heartfelt, occasionally profane and lengthy — and few people got to hear it. The 13-minute speech was largely censored by the network, leaving viewers at home curious to know what Ush…",
+    "url": "https://apnews.com/article/usher-speech-2024-bet-awards-978db2f16992b98f8b22aed972736d79",
+    "urlToImage": "https://dims.apnews.com/dims4/default/cf8c426/2147483647/strip/true/crop/3803x2139+0+198/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F11%2Fbe%2F6721c0a18dc3344884dae7c3d06a%2F2a68369a3e3a4409807b3dbdd90fafe4",
+    "publishedAt": "2024-07-02T02:10:00Z",
+    "content": "Ushers acceptance speech of the BET Awards lifetime achievement award was heartfelt, occasionally profane and lengthy and few people got to hear it.\r\nThe 13-minute speech was largely censored by the … [+1870 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "MARK SHERMAN",
+    "title": "Supreme Court sends Trump immunity case back to lower court - The Associated Press",
+    "description": "The Supreme Court has ruled for the first time that former presidents have broad immunity from criminal prosecution for official acts. President Joe Biden said Monday night the ruling undercut accepted limits on the presidency dating all the way back to Georg…",
+    "url": "https://apnews.com/article/supreme-court-trump-capitol-riot-immunity-2dc0d1c2368d404adc0054151490f542",
+    "urlToImage": "https://dims.apnews.com/dims4/default/e552663/2147483647/strip/true/crop/8142x4580+0+424/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F8a%2F2b%2Fc21eb89c9ac9749e71ea8fe0a135%2F346efc5f20694074bd8216c84ea493c8",
+    "publishedAt": "2024-07-02T01:46:00Z",
+    "content": "WASHINGTON (AP) The Supreme Court on Monday ruled for the first time that former presidents have broad immunity from prosecution, extending the delay in the Washington criminal case against Donald Tr… [+9290 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Heat.com"
+    },
+    "author": "From NBA.com News Services",
+    "title": "Reports: Mavs complete sign-and-trade deal for Klay Thompson - NBA.com",
+    "description": "Former All-Star guard Klay Thompson is headed to the Mavericks as part of a sign-and-trade deal that also involves the Hornets.",
+    "url": "https://www.nba.com/news/klay-thompson-2024-free-agency",
+    "urlToImage": null,
+    "publishedAt": "2024-07-02T01:21:35Z",
+    "content": "Sharpshooting guard Klay Thompson is reportedly headed to the Mavericks via a sign-and-trade deal with the Warriors.\r\n Download the NBA App | 2024 Free Agent Tracker\r\nKeep track of the latest offseas… [+4658 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Entertainment Tonight"
+    },
+    "author": "Zach Seemayer",
+    "title": "Nick Cannon Explains Why He Insured His Private Parts for $10 Million (Exclusive) - Entertainment Tonight",
+    "description": "Nick Cannon spoke with ET about his insurance policy on his private parts at son Legendary's 2nd birthday over the weekend.",
+    "url": "https://www.etonline.com/nick-cannon-explains-why-he-insured-his-private-parts-for-10-million-exclusive-228415",
+    "urlToImage": "https://www.etonline.com/sites/default/files/styles/1280x720/public/images/2024-07/ETD_INTV_NickCannonExplains_20240701_vidpic.jpg?h=b0825e94",
+    "publishedAt": "2024-07-02T01:11:00Z",
+    "content": "Nick Cannon is opening up about his decision to financially protect his most valuable personal asset -- his reproductive organs.\r\nOver the weekend, the Masked Singer host and father of 12 enjoyed a d… [+2913 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Spaceflight Now"
+    },
+    "author": null,
+    "title": "Watch: Firefly to launch 8 CubeSats for NASA on 5th Alpha rocket – Spaceflight Now - Spaceflight Now",
+    "description": null,
+    "url": "https://spaceflightnow.com/2024/07/02/watch-firefly-to-launch-8-cubesats-for-nasa-on-5th-alpha-rocket/",
+    "urlToImage": null,
+    "publishedAt": "2024-07-02T01:10:16Z",
+    "content": "Firefly Aerospaces Alpha rocket carrying eight CubeSats as part of NASAs CubeSat Launch Initiatives (CSLI) ELaNa (Educational Launch of Nanosatellites) 43 mission rolls out of the companys Payload Pr… [+10397 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TMZ"
+    },
+    "author": "TMZ Staff",
+    "title": "'Horizon' Star Michael Rooker Says Kevin Costner Film Is Cinema, Not TikTok Crap - TMZ",
+    "description": "'Horizon' star Michael Rooker says Kevin Costner's new movie is real cinema, not TikTok crap.",
+    "url": "https://www.tmz.com/2024/07/01/horizon-american-saga-michael-rooker-real-cinema-box-office-kevin-costner/",
+    "urlToImage": "https://imagez.tmz.com/image/8f/16by9/2024/07/02/8f4c9a4cd78d4d0cb172d0d65d8f9963_xl.jpg",
+    "publishedAt": "2024-07-02T01:04:00Z",
+    "content": "Michael Rooker says folks are sleeping onKevin Costner's new movie saga ... telling us the film is a throwback to classic Hollywood and a departure from the \"crap\" TikTok generation.\r\nWe got Michael,… [+942 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Deadline"
+    },
+    "author": "Glenn Garner",
+    "title": "Jamie Foxx Recalls Mystery Illness, Being “Gone For 20 Days” During Hospitalization - Deadline",
+    "description": "More than a year later, Jamie Foxx is getting candid about his mysterious health scare that apparently left him comatose for three weeks.",
+    "url": "http://deadline.com/2024/07/jamie-foxx-recalls-mystery-illness-being-gone-20-days-during-hospitalization-1235999459/",
+    "urlToImage": "https://deadline.com/wp-content/uploads/2023/05/Jamie-Foxx2.jpg?w=1000",
+    "publishedAt": "2024-07-02T00:57:00Z",
+    "content": "More than a year later, Jamie Foxx is getting candid about his mysterious health scare that apparently left him comatose for three weeks.\r\nThe Academy Award winner shared the story of his April 2023 … [+1899 chars]"
+    },
+    {
+    "source": {
+    "id": "abc-news",
+    "name": "ABC News"
+    },
+    "author": "Meredith Deliso",
+    "title": "40 people injured after Air Europa flight experiences heavy turbulence, diverted to Brazil: Airport - ABC News",
+    "description": "The flight was traveling from Spain to Uruguay when it was diverted to Brazil.",
+    "url": "https://abcnews.go.com/International/air-europa-flight-turbulence/story?id=111595157",
+    "urlToImage": "https://i.abcnewsfe.com/a/755a4c38-44e2-40c4-8d22-140186adb6ee/Brazil-turbulence-1-ht-jm-240701_1719874927062_hpMain_16x9.jpg?w=1600",
+    "publishedAt": "2024-07-01T23:47:06Z",
+    "content": "Forty people were injured after an Air Europa flight from Spain to Uruguay experienced strong turbulence and was diverted to Brazil, officials said.\r\nFlight UX045 experienced \"heavy\" turbulence early… [+1517 chars]"
+    },
+    {
+    "source": {
+    "id": "associated-press",
+    "name": "Associated Press"
+    },
+    "author": "THE ASSOCIATED PRESS",
+    "title": "Friends, foes of France's far-right National Rally scramble after first round of voting - The Associated Press",
+    "description": "France’s fiercely anti-immigration National Rally and opponents of the far-right party are scrambling to capitalize on a first round of voting in high-stakes surprise legislative elections.",
+    "url": "https://apnews.com/article/france-elections-macron-le-pen-bardella-far-right-left-center-416fe9d6d5efdb2c2f49a0be1f73ec0e",
+    "urlToImage": "https://dims.apnews.com/dims4/default/c708d3d/2147483647/strip/true/crop/4000x2250+0+209/resize/1440x810!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F4a%2F49%2F53b677a820549e11eecb01153f0e%2Fe32d751604e34c259e0bc4706dca4e09",
+    "publishedAt": "2024-07-01T23:46:00Z",
+    "content": "Frances fiercely anti-immigration National Rally and opponents of the far-right party are scrambling to capitalize on a first round of voting in high-stakes surprise legislative elections.\r\nThe offic… [+5569 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "Android Central"
+    },
+    "author": "Jay Bonggolto",
+    "title": "Google Pixel 6 factory reset might zap your phone - Android Central",
+    "description": "Factory resetting your Pixel 6? Hold off - it might turn into a brick!",
+    "url": "https://www.androidcentral.com/phones/google-pixel-6-factory-reset-might-zap-your-phone",
+    "urlToImage": "https://cdn.mos.cms.futurecdn.net/6LCdr53mf8rbYXKrCUwHkJ-1200-80.jpg",
+    "publishedAt": "2024-07-01T23:29:02Z",
+    "content": "What you need to know\r\n<ul><li>Pixel 6 users are experiencing serious issues with factory resets that brick their phones.</li><li>The error message \"Cannot load Android system\" appears after a reset,… [+2478 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "TheStreet"
+    },
+    "author": "Dan Weil",
+    "title": "Morgan Stanley's explosive call on interest rates if Trump wins - TheStreet",
+    "description": "The 10-year Treasury yield stands at 4.49%, up from 3.9% Dec. 29.",
+    "url": "https://www.thestreet.com/investing/morgan-stanleys-explosive-call-on-interest-rates-if-trump-wins",
+    "urlToImage": "https://www.thestreet.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjA1Mjc1NzExNjE3OTAyMTAw/former-president-trump-speaks-to-the-media-after-court-appearance-in-hush-money-case.jpg",
+    "publishedAt": "2024-07-01T23:03:00Z",
+    "content": "After Joe Biden’s disastrous performance in last week’s presidential debate, the likelihood of a victory for Donald Trump seems to have increased markedly.\r\nIf Trump does emerge victorious, one major… [+3646 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "CBS Sports"
+    },
+    "author": "",
+    "title": "NBA's biggest contracts: Jayson Tatum overtakes Jaylen Brown for largest deal in league history - CBS Sports",
+    "description": "George's new deal with the Sixers makes him the seventh-highest paid player for next season",
+    "url": "https://www.cbssports.com/nba/news/nbas-biggest-contracts-jayson-tatum-overtakes-jaylen-brown-for-largest-deal-in-league-history/",
+    "urlToImage": "https://sportshub.cbsistatic.com/i/r/2024/07/01/fb81a412-3b0b-4a84-8054-d1208c51e6b0/thumbnail/1200x675/e7c6b49baaa21ec3b4f973c7798ffef3/tatum-brown-getty.png",
+    "publishedAt": "2024-07-01T22:57:00Z",
+    "content": "The NBA offseason is underway, which means players around the league are agreeing to massive contracts to either stay with their current team or join a different squad. There was even a record-settin… [+9637 chars]"
+    },
+    {
+    "source": {
+    "id": "axios",
+    "name": "Axios"
+    },
+    "author": "Axios",
+    "title": "Some antidepressants cause more weight gain than others, study finds - Axios",
+    "description": null,
+    "url": "https://www.axios.com/2024/07/01/antidepressants-weight-gain-lexipro-zoloft-wellbutrin",
+    "urlToImage": null,
+    "publishedAt": "2024-07-01T22:53:57Z",
+    "content": null
+    }
+    ]
+    }
